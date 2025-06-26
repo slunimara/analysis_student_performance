@@ -3,3 +3,7 @@ This analysis processes the Student Performance dataset, which describes student
 
 The use of the dataset may vary. It is possible to predict final grade, midterm grades, or even students' alcohol consumption. My analysis deals with the prediction of whether or not a student will meet the minimum threshold of success in Portuguese subject.
 
+## Current progress:
+- Understanding the data
+- Data preprocessing
+- Modeling with decision trees
