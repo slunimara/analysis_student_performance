@@ -8,7 +8,8 @@ The aim of this analysis is to revisit my knowledge of ML analysis and try to wo
 ## Current progress:
 - Understanding the data
 - Data preprocessing
-- Modeling with Decision Trees
-- Modeling with Random Forests
-- Modeling with Gradient Boosting
-- Modeling with SVC (Support Vector Classification)
+- Modelling with Decision Trees
+- Modelling with Random Forests
+- Modelling with Gradient Boosting
+- Modelling with SVC (Support Vector Classification)
+- Modelling with Neural Networks
